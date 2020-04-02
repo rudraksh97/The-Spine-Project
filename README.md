@@ -12,7 +12,7 @@ and Lateral were available. So total 2000 X-ray images were there, equally divid
 ## Images
 This images are for a normal Spinal cord
 ### Lateral
-<img src="https://github.com/rudraksh97/The-Spine-Project/Examples/Normal/LAT/LAT.jpg?raw=True">
+<img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Normal/LAT/LAT.jpg?raw=True">
 
 ## Data preprocessing and Dataset generation
 

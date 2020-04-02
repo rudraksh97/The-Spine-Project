@@ -9,6 +9,11 @@ highlighted the thoracic and lumbar regions of the vertebral column. For each
 patient in the dataset, two X-Ray images highlighting two different views namely AP
 and Lateral were available. So total 2000 X-ray images were there, equally divided among the two views.
 
+## Images
+This images are for a normal Spinal cord
+### Lateral
+<img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Samples/Normal/LAT/LAT.jpeg?raw=True">
+
 ## Data preprocessing and Dataset generation
 
 ```

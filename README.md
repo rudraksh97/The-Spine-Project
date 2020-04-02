@@ -12,7 +12,7 @@ and Lateral were available. So total 2000 X-ray images were there, equally divid
 ## Data preprocessing and Dataset generation
 
 ```
-The Spine Project/
+The-Spine-Project/
 ├── generate_patches.ipynb
 ├── README.md
 ├── research_model.ipynb
@@ -21,6 +21,6 @@ The Spine Project/
 
 ## Model
 
-## Tests and Vessel Removal
+## Tests
 
 ## Some snippets

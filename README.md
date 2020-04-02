@@ -27,7 +27,7 @@ The-Spine-Project/
 |   └── Github
 ├── generate_patches.ipynb
 ├── README.md
-├── research_model.ipynb
+├── classification.ipynb
 ├── location_train.txt
 ```
 

@@ -35,7 +35,7 @@ The-Spine-Project/
 
 ## Metrics Used
 ### Segmentation
-1. Jaccard Index/IOU Score
+1. Mean IOU Score
 2. Dice Score
 
 ### Classification

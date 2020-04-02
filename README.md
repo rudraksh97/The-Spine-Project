@@ -7,7 +7,7 @@ The dataset consisted of radiological images, X rays, from over 1000 thousand pa
 visited some medical centre seeking for their treatment. The X-ray images of the patients
 highlighted the thoracic and lumbar regions of the vertebral column. For each
 patient in the dataset, two X-Ray images highlighting two different views namely AP
-and Lateral were available. So total 2000 X-ray images, equally divided among the two views were available.
+and Lateral were available. So total 2000 X-ray images were there, equally divided among the two views.
 
 ## Data preprocessing and Dataset generation
 

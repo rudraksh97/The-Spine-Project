@@ -20,8 +20,6 @@ This images are for a normal Spinal cord
 ### LAT Binary Masks
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/LAT.jpg?raw=True">
 
-## Data preprocessing and Dataset generation
-
 ```
 The-Spine-Project/
 ├── Examples

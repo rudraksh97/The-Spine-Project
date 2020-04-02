@@ -10,7 +10,6 @@ patient in the dataset, two X-Ray images highlighting two different views namely
 and Lateral were available. So total 2000 X-ray images were there, equally divided among the two views.
 
 ## Images
-This images are for a normal Spinal cord
 ### AP and Lateral Views
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/APLAT.jpg?raw=True">
 

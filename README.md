@@ -14,10 +14,20 @@ This images are for a normal Spinal cord
 ## AP and Lateral Views
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/APLAT.jpg?raw=True">
 
+## AP Binary Masks
+<img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/AP.jpg?raw=True">
+
+## LAT Binary Masks
+<img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/LAT.jpg?raw=True">
+
 ## Data preprocessing and Dataset generation
 
 ```
 The-Spine-Project/
+├── Examples
+│   ├── Normal
+│   └── Damaged
+|   └── Github
 ├── generate_patches.ipynb
 ├── README.md
 ├── research_model.ipynb
@@ -27,5 +37,3 @@ The-Spine-Project/
 ## Model
 
 ## Tests
-
-## Some snippets

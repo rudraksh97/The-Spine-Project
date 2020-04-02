@@ -1,4 +1,4 @@
-#Spinal Cord Segmentation and Classification
+## Spinal Cord Segmentation and Classification
 1. [U-net](https://arxiv.org/abs/1505.04597) based CNN for segmentation masks for different parts in the the spinal cord.
 2. Dual Input CNN was built to classify between Damaged and Normal Spinal cords.
 

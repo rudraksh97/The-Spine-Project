@@ -11,13 +11,13 @@ and Lateral were available. So total 2000 X-ray images were there, equally divid
 
 ## Images
 This images are for a normal Spinal cord
-## AP and Lateral Views
+### AP and Lateral Views
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/APLAT.jpg?raw=True">
 
-## AP Binary Masks
+### AP Binary Masks
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/AP.jpg?raw=True">
 
-## LAT Binary Masks
+### LAT Binary Masks
 <img src="https://github.com/rudraksh97/The-Spine-Project/blob/master/Examples/Github/LAT.jpg?raw=True">
 
 ## Data preprocessing and Dataset generation

@@ -28,9 +28,15 @@ The-Spine-Project/
 ├── generate_patches.ipynb
 ├── README.md
 ├── research_model.ipynb
-├── run_tests.ipynb
+├── location_train.txt
 ```
 
 ## Model
 
-## Tests
+## Metrics Used
+### Segmentation
+1. Jaccard Index
+2. Dice Score
+
+### Classification
+1. Accuracy

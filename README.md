@@ -38,4 +38,4 @@ The-Spine-Project/
 Mean IOU Score = 0.78
 
 ### Classification
-Accuracy = 83.3%
+Accuracy = 85.1%

@@ -35,7 +35,7 @@ The-Spine-Project/
 
 ## Metrics Used
 ### Segmentation
-Mean IOU Score = 0.78
+Mean IOU Score
 
 ### Classification
 Accuracy = 85.1%

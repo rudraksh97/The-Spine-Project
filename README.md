@@ -36,7 +36,7 @@ The-Spine-Project/
 ## Metrics Used
 ### Segmentation
 Mean IOU Score
-Mean Dice Score 
+//Mean Dice Score 
 
 ### Classification
 Accuracy = 85.1%

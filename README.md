@@ -35,7 +35,19 @@ The-Spine-Project/
 
 ## Metrics Used
 ### Segmentation
-Mean Dice Score 
+Mean IOU
+AP View:
+Pedicle: 0.057
+Spinous Process: 0.024
+Vertebra: 0.77
+
+LAT view
+Anterior Vertebral Line: Nil
+Posterior Vertebral Line: Nil
+Disk Height: 0.54
+Spinous Process: 0.58
+Vertebra: 0.73
+
 
 ### Classification
 Accuracy = 85.1%

@@ -48,6 +48,7 @@ Disk Height: 0.54
 Spinous Process: 0.58  
 Vertebra: 0.73  
 
+Low values of Jaccard/ Mean IOU suggests that there is a high class imbalance in the some type of images.
 
 ### Classification
 Accuracy = 85.1%

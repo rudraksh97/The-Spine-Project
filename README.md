@@ -35,13 +35,13 @@ The-Spine-Project/
 
 ## Metrics Used
 ### Segmentation
-Mean IOU  
+Mean IOU   
 AP View  
 Pedicle: 0.057  
 Spinous Process: 0.024  
 Vertebra: 0.77  
 
-LAT view
+LAT view  
 Anterior Vertebral Line: Nil  
 Posterior Vertebral Line: Nil  
 Disk Height: 0.54  
